@@ -1,5 +1,6 @@
 # Pairwise-Sequence-Alignment
 A dynamic programming project. A complete explanation is provided in the [reading material](SequenceAlignment.pdf) by Dr.Luay Nakhleh.
+The code of the global pairwise alignment and the local pairwise alignment are in [pairwise_alignment](pairwise-alignment.py). The [analysis folder](/alignment-analysis) has additionally the application on real world genome data
 
 ## Global Pairwise Alignment :sunny: Feasibility & Optimality
 ![image of global def 1](Screenshots/global_def_1.png)

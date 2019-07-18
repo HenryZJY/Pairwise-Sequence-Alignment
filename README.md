@@ -8,3 +8,6 @@ The code of the global pairwise alignment and the local pairwise alignment are i
 
 :open_hands: Now its time to have a dynammic programming algorithm to compute the score of the optimal global scores. 
 ![image of global score](Screenshots/global_score.png)
+
+:open_hands::open_hands: Now for the algorithm to compute the global optimal alignment. 
+

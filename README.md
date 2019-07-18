@@ -10,4 +10,4 @@ The code of the global pairwise alignment and the local pairwise alignment are i
 ![image of global score](Screenshots/global_score.png)
 
 :open_hands::open_hands: Now for the algorithm to compute the global optimal alignment. 
-
+![image of global alignment](Screenshots/compute_align.png)
